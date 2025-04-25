@@ -12,3 +12,8 @@ Este proyecto es un panel administrativo construido con Vite + React + React Rou
 ## Captura del resultado
 
 ![image](https://github.com/user-attachments/assets/891c19a1-11a3-420a-9622-45a7fcc36ea8)
+
+## Autores 
+
+- Johan Peñaranda Basto 
+- Vanesa Alexandra Corredor Cepeda 
